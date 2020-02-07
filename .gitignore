@@ -1,0 +1,14 @@
+.gradle
+.classpath
+.settings
+.project
+
+gradlew*
+
+bin
+build
+target
+gradle
+
+.allure
+/.factorypath
