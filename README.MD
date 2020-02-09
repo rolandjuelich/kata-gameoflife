@@ -1,3 +1,10 @@
+## Scenarios...
+
+... can be executed via `./gradlew clean test`
+You can display the results with `./gradlew allureReport allureServe`
+
+![Report Preview](img/report-preview.png)
+
 ## Kata
 
 This Kata is about calculating the next generation of Conway’s game of life, given any starting position. See [wikipedia](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) for background.
